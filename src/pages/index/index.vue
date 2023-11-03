@@ -127,8 +127,6 @@ const confirm = () => {
         })
       })
 }
-
-const title = ref("Hello")
 </script>
 
 <style>
